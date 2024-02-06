@@ -25,4 +25,4 @@ To utilize RandomSearchCV for hyperparameter tuning, follow these steps:
 Check out the examples directory for sample scripts demonstrating how to use RandomSearchCV with different machine learning models and datasets.
 
 ## Contributors
-- Rakshith G (https://github.com/Rakshithg6)
+- Rakshith G [Github](https://github.com/Rakshithg6)
